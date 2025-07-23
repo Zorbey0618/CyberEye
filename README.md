@@ -108,7 +108,7 @@ sudo apt install -y \
     wine64 \
     wine32 \
     winetricks \
-    cabextract \
+      cabextract \
     libgl1-mesa-glx:i386
 ```
 
